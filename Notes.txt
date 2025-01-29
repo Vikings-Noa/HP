@@ -1,0 +1,5 @@
+Pour les jumpscare revenir a cette video si besoin de en set up des differents et par exepmle essaie de mmetre une collisio box avant qui trigger un nouvelle event qui met un sons en mode suspence tres intense avant un jumpscare plus un peu plus loin mettre le jumpscare  https://www.youtube.com/watch?v=9lHb4lmfm1U&list=PLsvJPvyuTmCmxNceUUhydAqzr0jYX_y2c&index=10&ab_channel=RubaDev
+et dans la meme video vers 13minutes 52 utilise bp wall pour cree un jumpscre ou un bail qui fais que le joueur ce retourne ou dan sle contect ecrit avec du sang genre retourne toi et l'endroit dou il vient etaisd unportant et dun coup ya un mur et plus tard le murs sera re enlever par une de ces actions pour revenir a cette endroit 
+
+
+faire que quand une clef est recupere il y ai marquer "key 1 found " et que quand on essaie de ouvrir porte 1 sans cectte clef la il y ai marquer "You need to find key 1"
