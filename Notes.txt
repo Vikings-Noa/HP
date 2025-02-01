@@ -2,4 +2,4 @@ Pour les jumpscare revenir a cette video si besoin de en set up des differents e
 et dans la meme video vers 13minutes 52 utilise bp wall pour cree un jumpscre ou un bail qui fais que le joueur ce retourne ou dan sle contect ecrit avec du sang genre retourne toi et l'endroit dou il vient etaisd unportant et dun coup ya un mur et plus tard le murs sera re enlever par une de ces actions pour revenir a cette endroit 
 
 
-faire que quand une clef est recupere il y ai marquer "key 1 found " et que quand on essaie de ouvrir porte 1 sans cectte clef la il y ai marquer "You need to find key 1"
+Qand je fais les "Level designing" a la fin de chaque niveau utilise "BP_LockedDoorsForLevelChange" Pour acceder au prochain niveau, et faire que lendroit dans le quel on rentre c'est soit une piece noir sans reflexion/soit une piece blanche bien brillante et que dcp faut rentrer dedans et apres sa nous teleporte au prochain level
